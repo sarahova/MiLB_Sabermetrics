@@ -1,0 +1,550 @@
+Name,id,POS,G,AB,R,H,2B,3B,HR,RBI,TB,BB,SO,SB,CS,OBP,SLG,AVG,OPS,Team
+Rowdy Tellez,642133,1B,25,89,19,33,8,0,7,21,62,14,24,0,0,.457,.697,.371,1.154,Buffalo Bisons
+Vladimir Guerrero Jr.,665489,3B,9,30,7,11,1,0,3,8,21,4,2,1,0,.441,.700,.367,1.141,Buffalo Bisons
+Cavan Biggio,624415,2B,43,138,23,43,8,1,6,27,71,34,28,5,1,.448,.514,.312,.963,Buffalo Bisons
+Socrates Brito,593647,RF,76,309,51,90,24,4,12,50,158,19,76,8,6,.328,.511,.291,.840,Buffalo Bisons
+Ben Revere,519184,LF,8,35,4,10,3,0,0,6,13,0,3,1,0,.286,.371,.286,.657,Buffalo Bisons
+Andy Burns,542992,2B,97,334,46,93,15,2,13,48,151,50,63,6,5,.372,.452,.278,.824,Buffalo Bisons
+Patrick Kivlehan,623182,OF,68,248,40,69,10,3,19,55,142,28,75,0,1,.364,.573,.278,.937,Buffalo Bisons
+Lourdes Gurriel Jr.,666971,2B,31,123,18,34,13,0,4,26,59,3,23,0,2,.308,.480,.276,.787,Buffalo Bisons
+Richard Urena,620446,SS,85,316,37,87,15,4,4,41,122,17,74,2,2,.311,.386,.275,.697,Buffalo Bisons
+Bo Bichette,666182,SS,56,222,34,61,16,2,8,32,105,19,48,15,5,.333,.473,.275,.806,Buffalo Bisons
+Michael De La Cruz,631222,C,39,121,16,33,9,0,4,22,54,18,24,1,0,.364,.446,.273,.811,Buffalo Bisons
+Billy McKinney,641856,LF,36,129,17,35,8,4,4,20,63,22,25,1,1,.383,.488,.271,.871,Buffalo Bisons
+Eric Sogard,519299,2B,9,30,7,8,2,0,1,6,13,7,4,0,0,.395,.433,.267,.828,Buffalo Bisons
+Anthony Alford,546990,CF,65,239,36,63,13,3,6,34,100,26,79,18,7,.346,.418,.264,.764,Buffalo Bisons
+Jonathan Davis,641505,CF,64,224,53,59,18,3,9,25,110,37,68,8,2,.396,.491,.263,.887,Buffalo Bisons
+Dalton Pompey,592647,RF,8,27,1,7,0,0,0,3,7,6,7,0,1,.382,.259,.259,.642,Buffalo Bisons
+Teoscar Hernandez,606192,LF,19,75,11,19,0,1,5,11,36,6,21,3,0,.313,.480,.253,.793,Buffalo Bisons
+Roemon Fields,605231,CF,78,237,34,59,8,2,1,15,74,26,42,13,7,.326,.312,.249,.638,Buffalo Bisons
+Reese McGuire,624512,C,72,243,30,60,12,1,5,29,89,25,44,4,0,.316,.366,.247,.683,Buffalo Bisons
+Jordan Patterson,641958,RF,93,326,57,77,18,2,14,41,141,22,117,3,1,.304,.433,.236,.736,Buffalo Bisons
+Patrick Cantwell,607486,C,20,64,5,15,4,0,0,5,19,8,23,0,0,.329,.297,.234,.626,Buffalo Bisons
+Alen Hanson,593700,2B,48,166,19,31,3,1,3,18,45,9,39,7,2,.232,.271,.187,.503,Buffalo Bisons
+Andrew Guillotte,665039,RF,25,82,7,13,2,1,0,3,17,4,28,3,0,.207,.207,.159,.414,Buffalo Bisons
+Santiago Espinal,669289,2B,6,23,0,2,2,0,0,1,4,0,5,0,0,.087,.174,.087,.261,Buffalo Bisons
+Gunnar Heidt,656525,SS,7,24,2,1,0,0,0,1,1,1,19,0,0,.080,.042,.042,.122,Buffalo Bisons
+Zach Logue,656657,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Buffalo Bisons
+Ramon Torres,593527,SS,4,16,8,11,3,0,3,7,23,0,0,0,0,.688,1.438,.688,2.125,Charlotte Knights
+Jon Jay,445055,OF,13,53,8,19,2,0,0,6,21,2,10,1,0,.382,.396,.358,.778,Charlotte Knights
+Tim Anderson,641313,SS,5,23,3,8,1,0,1,4,12,0,2,0,0,.348,.522,.348,.870,Charlotte Knights
+Ryan Cordell,641477,RF,7,31,6,10,3,1,1,6,18,1,10,0,0,.344,.581,.323,.924,Charlotte Knights
+Ryan Goins,572365,2B,83,273,47,88,23,2,10,48,145,39,77,3,3,.406,.531,.322,.937,Charlotte Knights
+Eloy Jimenez,650391,LF,5,22,3,7,1,0,1,1,11,0,5,0,0,.318,.500,.318,.818,Charlotte Knights
+Charlie Tilson,605508,RF,41,165,30,51,8,2,2,24,69,15,29,4,2,.368,.418,.309,.786,Charlotte Knights
+Luis Robert,673357,CF,26,115,25,34,6,3,8,20,70,6,29,5,1,.349,.609,.296,.958,Charlotte Knights
+Yermin Mercedes,606213,C,34,120,22,35,7,0,11,40,75,13,32,0,0,.370,.625,.292,.995,Charlotte Knights
+Alcides Escobar,444876,SS,96,367,52,105,28,0,10,70,163,32,64,6,2,.343,.444,.286,.787,Charlotte Knights
+Welington Castillo,456078,C,3,14,1,4,0,0,1,5,7,0,4,0,0,.286,.500,.286,.786,Charlotte Knights
+Nicky Delmonico,547170,LF,17,63,13,18,7,0,3,10,34,10,12,1,0,.382,.540,.286,.921,Charlotte Knights
+Danny Mendick,664901,SS,112,402,67,112,23,1,14,56,179,61,80,18,8,.376,.445,.279,.822,Charlotte Knights
+Preston Tucker,605512,LF,25,83,14,23,8,0,1,10,34,9,7,0,1,.344,.410,.277,.754,Charlotte Knights
+Daniel Palka,594953,RF,87,329,70,91,21,0,23,61,181,59,88,2,0,.384,.550,.277,.934,Charlotte Knights
+Zack Collins,641470,C,69,231,43,63,16,1,12,58,117,49,81,0,0,.394,.506,.273,.901,Charlotte Knights
+Adam Engel,641553,CF,64,248,43,67,13,4,9,29,115,22,62,13,3,.347,.464,.270,.810,Charlotte Knights
+Matt Skole,605474,1B,92,314,65,78,15,0,21,56,156,70,99,0,0,.384,.497,.248,.880,Charlotte Knights
+Paulo Orlando,449181,OF,65,249,37,61,15,1,10,32,108,13,66,5,1,.295,.434,.245,.729,Charlotte Knights
+Brandon Guyer,446386,OF,16,41,10,10,3,1,0,6,15,5,10,0,0,.367,.366,.244,.733,Charlotte Knights
+Ivan De Jesus Jr.,474443,2B,22,63,6,15,2,0,1,5,20,11,14,0,2,.347,.317,.238,.664,Charlotte Knights
+Nick Madrigal,663611,2B,8,34,7,8,0,0,0,4,8,3,0,1,1,.289,.235,.235,.525,Charlotte Knights
+Jacob Scavuzzo,621468,OF,23,76,9,17,4,1,1,3,26,8,26,1,0,.298,.342,.224,.640,Charlotte Knights
+Trey Michalczewski,641870,2B,19,59,7,13,2,0,3,8,24,5,24,1,1,.292,.407,.220,.699,Charlotte Knights
+Seby Zavala,664874,C,64,238,42,52,11,0,17,40,114,21,97,0,0,.288,.479,.218,.767,Charlotte Knights
+Alfredo Gonzalez,554054,C,13,44,4,9,1,0,1,5,13,5,12,0,0,.286,.295,.205,.581,Charlotte Knights
+Joel Booker,664689,LF,26,79,8,16,3,1,1,3,24,6,24,2,2,.276,.304,.203,.580,Charlotte Knights
+D.J. Peterson,592637,1B,38,130,19,24,5,0,6,16,47,11,38,1,0,.262,.362,.185,.624,Charlotte Knights
+AJ Reed,607223,1B,3,11,1,2,0,0,1,1,5,1,4,0,0,.308,.455,.182,.762,Charlotte Knights
+Daniel Gonzalez,642311,C,5,9,0,1,0,0,0,0,1,2,2,0,0,.273,.111,.111,.384,Charlotte Knights
+Nate Nolan,669916,C,3,6,2,0,0,0,0,0,0,1,5,0,0,.143,.000,.000,.143,Charlotte Knights
+Dylan Cease,656302,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Charlotte Knights
+Matt Foster,641582,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Charlotte Knights
+Jordan Stephens,596111,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Charlotte Knights
+Thyago Vieira,600986,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Charlotte Knights
+Francisco Lindor,596019,SS,3,12,4,5,1,0,2,2,12,1,1,0,0,.462,1.000,.417,1.462,Columbus Clippers
+Jordan Luplow,656669,RF,9,34,10,12,3,0,2,6,21,7,11,2,1,.476,.618,.353,1.094,Columbus Clippers
+Carlos Gonzalez,471865,OF,6,23,1,8,1,0,1,3,12,6,5,0,0,.483,.522,.348,1.004,Columbus Clippers
+Tyler Naquin,571980,OF,4,18,4,6,1,1,3,6,18,0,4,0,0,.333,1.000,.333,1.333,Columbus Clippers
+Ka'ai Tom,664789,CF,31,119,16,37,12,4,3,27,66,10,29,1,3,.369,.555,.311,.924,Columbus Clippers
+Daniel Johnson,669288,RF,65,264,43,79,19,4,6,31,124,28,60,6,5,.369,.470,.299,.838,Columbus Clippers
+Oscar Mercado,640458,CF,30,119,24,35,10,1,4,15,59,16,32,14,3,.396,.496,.294,.891,Columbus Clippers
+Jake Bauers,641343,LF,7,25,3,7,3,0,1,3,13,6,12,1,2,.419,.520,.280,.939,Columbus Clippers
+Tim Federowicz,543148,C,26,90,7,25,6,0,2,13,37,11,23,0,0,.353,.411,.278,.764,Columbus Clippers
+Ryan Flaherty,475247,3B,98,359,61,99,20,2,17,67,174,59,104,1,2,.380,.485,.276,.864,Columbus Clippers
+Bobby Bradley,656252,1B,87,338,54,92,22,0,28,63,198,32,129,0,0,.342,.586,.272,.928,Columbus Clippers
+Brandon Barnes,488681,OF,94,376,64,102,25,0,24,77,199,33,109,9,1,.336,.529,.271,.865,Columbus Clippers
+Greg Allen,656185,LF,48,198,37,53,9,3,5,17,83,20,44,10,5,.358,.419,.268,.778,Columbus Clippers
+Mark Mathias,664029,2B,97,349,51,93,27,2,9,47,151,41,81,12,2,.347,.433,.266,.779,Columbus Clippers
+Yu Chang,644374,SS,56,213,37,54,13,1,7,34,90,23,57,3,1,.326,.423,.254,.749,Columbus Clippers
+Andrew Velazquez,623205,3B,6,24,2,6,2,1,0,3,10,0,6,0,1,.250,.417,.250,.667,Columbus Clippers
+Eric Haase,606992,C,87,304,64,73,10,3,27,56,170,37,120,1,1,.328,.559,.240,.887,Columbus Clippers
+Eric Stamets,608715,SS,75,244,32,57,9,4,6,32,92,25,67,12,1,.311,.377,.234,.688,Columbus Clippers
+Adam Rosales,489267,2B,48,175,26,39,7,0,7,17,67,10,54,1,0,.277,.383,.223,.659,Columbus Clippers
+Trayce Thompson,572204,RF,89,334,51,73,10,3,24,56,161,33,134,8,3,.294,.482,.219,.776,Columbus Clippers
+Cameron Maybin,457727,LF,14,51,4,11,3,0,0,5,14,13,20,1,2,.388,.275,.216,.663,Columbus Clippers
+Max Moroff,621559,SS,24,81,14,17,3,0,3,6,29,19,24,1,2,.366,.358,.210,.724,Columbus Clippers
+Mike Freeman,502273,SS,9,24,6,5,0,0,3,3,14,9,7,1,0,.424,.583,.208,1.008,Columbus Clippers
+Mike Papi,596068,RF,27,89,10,18,5,0,0,10,23,10,25,0,1,.290,.258,.202,.548,Columbus Clippers
+Dioner Navarro,425900,C,20,70,7,14,2,0,1,8,19,11,16,0,0,.309,.271,.200,.580,Columbus Clippers
+Tyler Krieger,623513,2B,13,46,4,9,1,0,1,3,13,6,13,2,0,.288,.283,.196,.571,Columbus Clippers
+Jason Kipnis,543401,2B,6,22,1,3,2,0,0,2,5,2,6,0,0,.208,.227,.136,.436,Columbus Clippers
+Connor Marabell,664088,LF,3,12,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Columbus Clippers
+Luke Wakamatsu,663788,SS,1,3,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Columbus Clippers
+James Hoyt,624586,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Columbus Clippers
+Henry Martinez,650493,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Columbus Clippers
+Josh D. Smith,605479,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Columbus Clippers
+Rocky Gale,502570,C,6,21,3,11,0,0,0,3,11,2,4,0,0,.565,.524,.524,1.089,Durham Bulls
+Joey Wendle,621563,2B,3,12,3,5,2,0,0,0,7,1,2,1,0,.462,.583,.417,1.045,Durham Bulls
+Jake Cronenworth,630105,SS,80,313,69,107,24,4,10,42,169,43,55,11,5,.432,.540,.342,.972,Durham Bulls
+Kean Wong,642221,2B,96,383,63,125,25,6,9,57,189,35,92,6,2,.392,.493,.326,.885,Durham Bulls
+Michael Brosseau,670712,3B,68,249,51,79,21,1,15,58,147,33,51,2,3,.408,.590,.317,.998,Durham Bulls
+Christian Arroyo,624414,3B,33,121,21,38,9,1,8,29,73,12,26,1,0,.381,.603,.314,.984,Durham Bulls
+Kevin Padlo,656821,3B,21,67,15,21,5,1,6,15,46,11,22,1,0,.410,.687,.313,1.097,Durham Bulls
+Emilio Bonifacio,466988,2B,56,183,31,52,11,1,5,22,80,11,42,10,4,.332,.437,.284,.769,Durham Bulls
+Nate Lowe,663993,1B,75,264,53,75,22,0,13,50,136,56,68,1,0,.415,.515,.284,.931,Durham Bulls
+Dalton Kelly,665138,1B,53,194,33,55,11,1,6,25,86,22,57,4,1,.360,.443,.284,.804,Durham Bulls
+Matt Duffy,622110,3B,9,33,4,9,1,0,1,9,13,1,5,0,0,.306,.394,.273,.699,Durham Bulls
+Andrew Velazquez,623205,3B,34,129,20,35,9,1,4,16,58,10,30,2,4,.329,.450,.271,.778,Durham Bulls
+Jake Smolinski,519295,OF,67,248,38,67,18,2,12,46,125,29,58,9,2,.360,.504,.270,.864,Durham Bulls
+Nick Solak,669256,2B,85,301,56,80,13,1,17,47,146,39,80,3,2,.353,.485,.266,.838,Durham Bulls
+Jason Coats,605183,OF,77,279,39,69,16,0,15,40,130,18,85,6,3,.295,.466,.247,.761,Durham Bulls
+Brendan McKay,656713,P,20,67,11,16,2,0,5,11,33,10,24,1,0,.346,.493,.239,.839,Durham Bulls
+Michael Perez,605421,C,40,133,19,31,6,0,9,32,64,19,38,0,0,.321,.481,.233,.802,Durham Bulls
+Nick Ciuffo,624419,C,34,123,14,28,7,1,2,16,43,9,37,1,1,.276,.350,.228,.626,Durham Bulls
+Anthony Bemboom,621532,C,14,47,7,10,3,0,1,6,16,2,10,0,1,.240,.340,.213,.580,Durham Bulls
+Nathan Lukes,664770,RF,76,226,22,48,8,3,4,29,74,24,51,6,0,.292,.327,.212,.619,Durham Bulls
+Mac James,657429,C,62,183,22,38,4,0,4,17,54,22,45,1,1,.293,.295,.208,.588,Durham Bulls
+Jesus Sanchez,660821,RF,18,63,6,13,2,1,1,5,20,6,20,0,0,.282,.317,.206,.599,Durham Bulls
+Joe McCarthy,663411,LF,41,148,24,29,6,2,6,23,57,29,54,1,0,.335,.385,.196,.720,Durham Bulls
+Dashenko Ricardo,516653,C,16,35,7,6,2,0,1,5,11,2,10,0,1,.211,.314,.171,.525,Durham Bulls
+Daniel Robertson,621002,3B,11,41,3,7,0,0,2,4,13,8,13,1,0,.320,.317,.171,.637,Durham Bulls
+Lucius Fox,665650,SS,15,42,6,6,0,1,0,1,8,6,15,2,0,.250,.190,.143,.440,Durham Bulls
+Miles Mastrobuoni,670156,2B,4,11,0,1,0,0,0,0,1,1,4,0,0,.167,.091,.091,.258,Durham Bulls
+Tyler Ladendorf,502285,SS,6,20,1,1,0,0,0,3,1,1,9,0,0,.091,.050,.050,.141,Durham Bulls
+Guillermo Heredia,628338,CF,2,7,0,0,0,0,0,0,0,0,3,0,0,.000,.000,.000,.000,Durham Bulls
+Ryan Merritt,607320,P,1,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Durham Bulls
+Hoby Milner,571948,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Durham Bulls
+Luis Santos,608601,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Durham Bulls
+Cole Sulser,642121,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Durham Bulls
+Jeremy Walker,668683,P,1,1,1,1,0,0,0,0,1,0,0,0,0,1.000,1.000,1.000,2.000,Gwinnett Stripers
+Raffy Lopez,607257,C,14,47,13,15,4,0,2,7,25,8,12,0,0,.418,.532,.319,.950,Gwinnett Stripers
+Ryan LaMarre,534606,OF,98,353,47,109,23,8,9,51,175,30,103,16,7,.372,.496,.309,.867,Gwinnett Stripers
+Lucas Duda,446263,1B,4,13,1,4,1,0,0,2,5,3,4,0,0,.389,.385,.308,.774,Gwinnett Stripers
+Drew Waters,671221,CF,6,26,6,8,2,0,1,5,13,1,10,1,0,.333,.500,.308,.833,Gwinnett Stripers
+Kyle Wright,657140,P,5,10,2,3,1,0,0,1,4,2,5,0,0,.417,.400,.300,.817,Gwinnett Stripers
+Austin Riley,663586,3B,37,144,32,43,10,0,15,39,98,18,31,0,0,.377,.681,.299,1.057,Gwinnett Stripers
+Jack Lopez,605346,2B,79,294,53,85,16,0,8,43,125,17,70,6,2,.336,.425,.289,.762,Gwinnett Stripers
+Travis Demeritte,641513,LF,96,339,68,97,28,2,20,74,189,51,106,4,3,.387,.558,.286,.944,Gwinnett Stripers
+Rafael Ortega,542364,LF,111,431,83,123,34,3,21,58,226,59,95,14,7,.373,.524,.285,.898,Gwinnett Stripers
+Jonathan Morales,664966,C,28,103,15,28,5,0,2,11,39,10,21,0,0,.333,.379,.272,.712,Gwinnett Stripers
+Sean Kazmar Jr.,453527,SS,93,325,49,86,17,1,12,53,141,28,51,1,1,.330,.434,.265,.764,Gwinnett Stripers
+Andres Blanco,433217,3B,103,401,68,106,21,1,16,53,177,47,92,2,4,.361,.441,.264,.803,Gwinnett Stripers
+Sal Giardina,657589,C,23,73,9,19,6,0,1,5,28,4,22,0,0,.353,.384,.260,.737,Gwinnett Stripers
+Adam Duvall,594807,LF,94,347,66,90,19,3,29,84,202,40,81,1,0,.349,.582,.259,.931,Gwinnett Stripers
+Luis Marte,606336,SS,77,285,37,72,11,0,5,31,98,14,73,5,1,.288,.344,.253,.632,Gwinnett Stripers
+Pedro Florimon,465753,SS,102,338,54,84,10,4,9,51,129,52,114,2,1,.348,.382,.249,.729,Gwinnett Stripers
+Ender Inciarte,542255,OF,6,26,5,6,1,0,0,1,7,4,3,0,1,.333,.269,.231,.603,Gwinnett Stripers
+Alex Jackson,656577,C,76,275,47,63,8,0,24,56,143,20,105,1,0,.317,.520,.229,.837,Gwinnett Stripers
+Cristian Pache,665506,CF,6,22,1,5,0,0,0,1,5,4,4,0,0,.346,.227,.227,.573,Gwinnett Stripers
+John Ryan Murphy,571974,C,4,14,2,3,0,0,1,2,6,1,4,0,0,.267,.429,.214,.695,Gwinnett Stripers
+Zack Soria,661841,C,2,5,1,1,0,0,0,0,1,1,1,0,0,.333,.200,.200,.533,Gwinnett Stripers
+Bryse Wilson,669060,P,5,10,0,2,0,0,0,0,2,0,5,0,0,.200,.200,.200,.400,Gwinnett Stripers
+Riley Unroe,624523,SS,13,41,7,7,1,0,1,3,11,7,11,1,1,.292,.268,.171,.560,Gwinnett Stripers
+Connor Lien,621457,OF,24,36,8,6,0,0,2,6,12,7,22,1,0,.348,.333,.167,.681,Gwinnett Stripers
+Mike Foltynewicz,592314,P,3,7,0,1,1,0,0,0,2,0,3,0,0,.143,.286,.143,.429,Gwinnett Stripers
+Kolby Allard,663465,P,8,12,0,0,0,0,0,0,0,1,3,0,0,.077,.000,.000,.077,Gwinnett Stripers
+Shane Carle,641438,P,6,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Corbin Clouse,641462,P,4,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Jason Creasy,595926,P,8,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Kevin Gausman,592332,P,1,2,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Connor Johnstone,641733,P,5,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Elian Leyva,673140,P,2,2,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Sean Newcomb,656794,P,3,2,1,0,0,0,0,0,0,1,0,0,0,.333,.000,.000,.333,Gwinnett Stripers
+Wes Parsons,641149,P,7,2,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Ben Rowen,594985,P,10,5,0,0,0,0,0,0,0,0,4,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Andres Santiago,519246,P,2,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Mike Soroka,647336,P,1,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Patrick Weigel,622256,P,4,2,0,0,0,0,0,0,0,1,1,0,0,.333,.000,.000,.333,Gwinnett Stripers
+Dan Winkler,595465,P,7,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Huascar Ynoa,660623,P,2,3,0,0,0,0,0,0,0,0,3,0,0,.000,.000,.000,.000,Gwinnett Stripers
+Jonathan Aro,608167,P,4,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Thomas Burrows,641425,P,6,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Grant Dayton,594795,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Jose Rafael De Paula,606127,P,8,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Kurt Hoekstra,664940,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+A.J. Minter,621345,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Chad Sobotka,656977,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Jonny Venters,458924,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Jacob Webb,657097,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Gwinnett Stripers
+Jung Ho Kang,628356,3B,8,27,4,12,3,0,1,6,18,4,8,0,0,.516,.667,.444,1.183,Indianapolis Indians
+Elias Diaz,553869,C,7,29,5,12,3,0,0,4,15,1,5,0,0,.433,.517,.414,.951,Indianapolis Indians
+Bryan Reynolds,668804,LF,13,49,10,18,1,1,5,11,36,7,11,3,2,.446,.735,.367,1.181,Indianapolis Indians
+Jake Elmore,518653,2B,86,285,41,99,27,0,4,26,138,30,41,3,7,.411,.484,.347,.895,Indianapolis Indians
+James Marvel,621086,P,2,3,0,1,0,0,0,0,1,1,2,0,0,.500,.333,.333,.833,Indianapolis Indians
+Trayvon Robinson,477054,OF,73,198,26,61,8,4,6,30,95,26,47,3,1,.389,.480,.308,.869,Indianapolis Indians
+Pablo Reyes,622569,LF,51,175,22,50,15,0,10,30,95,13,37,5,3,.342,.543,.286,.885,Indianapolis Indians
+Alfredo Reyes,602112,2B,8,18,2,5,0,1,0,2,7,0,6,0,0,.278,.389,.278,.667,Indianapolis Indians
+JB Shuck,543776,LF,50,138,16,38,12,2,3,14,63,15,16,3,1,.346,.457,.275,.803,Indianapolis Indians
+Jacob Stallings,607732,C,15,51,11,14,9,0,2,7,29,4,9,0,0,.361,.569,.275,.929,Indianapolis Indians
+Darnell Sweeney,572182,2B,23,73,9,20,4,1,2,12,32,3,24,2,1,.321,.438,.274,.759,Indianapolis Indians
+Jose Osuna,591741,3B,19,71,13,19,7,1,2,13,34,9,22,2,0,.361,.479,.268,.840,Indianapolis Indians
+Gregory Polanco,570256,OF,13,45,5,12,4,0,1,11,19,9,16,2,0,.389,.422,.267,.811,Indianapolis Indians
+Jason Martin,641829,CF,80,304,41,81,21,3,8,35,132,19,66,7,5,.309,.434,.266,.743,Indianapolis Indians
+Cole Tucker,657061,SS,64,260,42,69,12,2,8,25,109,33,59,10,3,.353,.419,.265,.772,Indianapolis Indians
+Kevin Kramer,596012,2B,102,356,44,92,27,1,10,52,151,40,107,4,5,.333,.424,.258,.757,Indianapolis Indians
+Will Craig,643269,1B,108,416,61,107,20,0,21,63,190,35,123,2,3,.328,.457,.257,.784,Indianapolis Indians
+Ke'Bryan Hayes,663647,3B,89,350,53,89,26,2,8,45,143,37,72,10,1,.332,.409,.254,.740,Indianapolis Indians
+Hunter Owen,670462,3B,20,63,8,15,2,0,4,7,29,5,20,0,0,.333,.460,.238,.794,Indianapolis Indians
+Kevin Newman,621028,2B,8,30,5,7,2,0,0,1,9,5,7,0,1,.343,.300,.233,.643,Indianapolis Indians
+Eric Wood,607780,OF,58,162,25,36,8,0,8,24,68,17,45,1,2,.306,.420,.222,.726,Indianapolis Indians
+Patrick Kivlehan,623182,OF,24,85,11,18,5,0,4,9,35,8,27,0,0,.287,.412,.212,.699,Indianapolis Indians
+Lonnie Chisenhall,502082,OF,7,24,2,5,1,0,0,0,6,0,8,0,0,.208,.250,.208,.458,Indianapolis Indians
+Erich Weiss,608382,1B,14,34,3,7,1,1,2,4,16,4,10,1,0,.289,.471,.206,.760,Indianapolis Indians
+Nick Franklin,545338,2B,44,114,15,22,5,0,3,12,36,15,31,2,2,.289,.316,.193,.605,Indianapolis Indians
+Erik Gonzalez,570481,SS,20,78,6,15,3,1,1,10,23,3,29,1,1,.222,.295,.192,.517,Indianapolis Indians
+Steven Baron,571467,C,39,114,16,21,2,0,2,8,29,13,33,0,0,.279,.254,.184,.533,Indianapolis Indians
+Logan Hill,664930,LF,14,49,7,9,4,0,2,3,19,2,12,0,0,.259,.388,.184,.647,Indianapolis Indians
+Corey Dickerson,572816,LF,9,33,4,6,1,0,0,4,7,3,8,0,0,.237,.212,.182,.449,Indianapolis Indians
+Christian Kelley,664877,C,66,209,22,38,7,1,5,16,62,19,65,0,0,.254,.297,.182,.551,Indianapolis Indians
+Dario Agrazal,642607,P,4,7,0,1,0,0,0,0,1,0,2,0,0,.143,.143,.143,.286,Indianapolis Indians
+Mitch Keller,656605,P,7,11,2,1,1,0,0,1,2,0,1,0,0,.167,.182,.091,.348,Indianapolis Indians
+Jake Brentz,641394,P,10,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Indianapolis Indians
+JT Brubaker,664141,P,1,2,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Indianapolis Indians
+Rookie Davis,606959,P,2,3,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Indianapolis Indians
+Montana DuRapau,657566,P,11,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Indianapolis Indians
+Luis Escobar,650813,P,5,4,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Indianapolis Indians
+Geoff Hartlieb,664129,P,9,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Indianapolis Indians
+Sean Keselica,656613,P,8,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Indianapolis Indians
+Alex McRae,656725,P,4,7,0,0,0,0,0,0,0,2,2,0,0,.222,.000,.000,.222,Indianapolis Indians
+Dovydas Neverauskas,596720,P,9,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Indianapolis Indians
+Yefry Ramirez,606162,P,7,2,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Indianapolis Indians
+Eduardo Vera,622747,P,10,14,0,0,0,0,0,0,0,0,8,0,0,.000,.000,.000,.000,Indianapolis Indians
+Cam Vieaux,664944,P,3,3,0,0,0,0,0,0,0,0,3,0,0,.000,.000,.000,.000,Indianapolis Indians
+Brandon Waddell,663399,P,6,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Indianapolis Indians
+Matt Eckelman,664158,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Michael Feliz,593140,P,4,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Clay Holmes,605280,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Keone Kela,605309,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Jesus Liranzo,622338,P,5,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Tyler Lyons,544928,P,9,0,0,0,0,0,0,0,0,1,0,0,0,1.000,.---,.---,1.000,Indianapolis Indians
+Brandon Maurer,543506,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Richard Rodriguez,593144,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Blake Weiman,676620,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Indianapolis Indians
+Logan Morrison,489149,1B,17,55,7,19,4,0,3,12,32,6,11,0,0,.422,.582,.345,1.004,Lehigh Valley IronPigs
+Nick Williams,608384,LF,34,137,23,47,12,2,7,17,84,8,38,0,0,.400,.613,.343,1.013,Lehigh Valley IronPigs
+Roman Quinn,596451,CF,4,18,6,6,0,1,0,2,8,2,8,1,1,.400,.444,.333,.844,Lehigh Valley IronPigs
+Phil Gosselin,594838,SS,56,213,43,70,16,2,8,38,114,35,44,3,1,.422,.535,.329,.957,Lehigh Valley IronPigs
+Ali Castillo,542419,3B,89,325,51,105,16,4,5,48,144,22,43,4,3,.364,.443,.323,.807,Lehigh Valley IronPigs
+Rob Brantly,542963,C,66,206,27,61,13,2,5,21,93,29,24,0,0,.393,.451,.296,.845,Lehigh Valley IronPigs
+Adam Haseley,656514,CF,18,68,8,20,6,0,2,9,32,8,14,1,1,.377,.471,.294,.847,Lehigh Valley IronPigs
+Andrew Romine,461865,SS,86,310,45,91,11,2,7,45,127,22,55,19,2,.348,.410,.294,.758,Lehigh Valley IronPigs
+Shane Robinson,453203,LF,71,256,44,73,9,0,7,27,103,30,29,7,3,.358,.402,.285,.761,Lehigh Valley IronPigs
+Deivy Grullon,620453,C,91,346,45,98,21,0,15,66,164,37,106,1,0,.351,.474,.283,.825,Lehigh Valley IronPigs
+Austin Listi,676730,1B,47,175,28,48,11,1,8,32,85,15,40,0,2,.352,.486,.274,.837,Lehigh Valley IronPigs
+Sean Rodriguez,446481,2B,12,45,7,12,2,1,4,12,28,3,19,0,0,.327,.622,.267,.949,Lehigh Valley IronPigs
+Malquin Canelo,622541,SS,105,350,51,91,23,2,2,30,124,26,112,7,10,.314,.354,.260,.668,Lehigh Valley IronPigs
+Lane Adams,572669,CF,72,271,41,69,17,2,12,29,126,30,103,8,2,.340,.465,.255,.805,Lehigh Valley IronPigs
+Jan Hernandez,641685,OF,61,232,38,58,13,1,12,44,109,25,101,2,3,.331,.470,.250,.801,Lehigh Valley IronPigs
+Nick Matera,682185,C,1,4,1,1,0,0,0,1,1,1,0,0,0,.400,.250,.250,.650,Lehigh Valley IronPigs
+Jose Pirela,517369,LF,10,39,4,9,2,0,0,2,11,4,10,0,0,.302,.282,.231,.584,Lehigh Valley IronPigs
+Matt McBride,473724,C,45,141,19,32,5,0,9,27,64,8,33,0,1,.276,.454,.227,.730,Lehigh Valley IronPigs
+Gift Ngoepe,547912,3B,41,122,17,27,8,0,5,21,50,12,56,1,0,.296,.410,.221,.706,Lehigh Valley IronPigs
+Damek Tomscha,595438,3B,53,183,23,40,9,0,8,19,73,16,55,0,2,.301,.399,.219,.700,Lehigh Valley IronPigs
+Jose Antequera,655672,3B,6,19,0,4,0,0,0,2,4,1,4,0,0,.250,.211,.211,.461,Lehigh Valley IronPigs
+Mitch Walding,605520,3B,90,282,46,58,11,1,11,40,104,62,133,2,1,.351,.369,.206,.720,Lehigh Valley IronPigs
+Enyel De Los Santos,660853,P,4,5,0,1,0,0,0,1,1,0,2,0,0,.200,.200,.200,.400,Lehigh Valley IronPigs
+Grenny Cumana,640488,2B,11,26,2,5,1,0,0,2,6,0,4,0,0,.192,.231,.192,.423,Lehigh Valley IronPigs
+Dylan Cozens,622226,RF,23,78,20,13,1,2,6,15,36,20,42,5,2,.333,.462,.167,.795,Lehigh Valley IronPigs
+Maikel Franco,596748,3B,2,7,0,1,0,0,0,0,1,1,2,0,0,.333,.143,.143,.476,Lehigh Valley IronPigs
+Drew Anderson,623454,P,4,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Tom Eshelman,664045,P,1,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Cole Irvin,608344,P,3,6,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Luke Leftwich,663398,P,5,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Nick Pivetta,601713,P,1,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+JoJo Romero,668941,P,1,2,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Ramon Rosso,665759,P,3,3,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Dan Straily,573185,P,1,3,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Jose Taveras,650810,P,2,2,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Tyler Viza,643588,P,2,2,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Lehigh Valley IronPigs
+Connor Brogdon,641401,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+John Curtiss,595928,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Austin Davis,656354,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Kyle Dohy,675971,P,10,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Edgar Garcia,658305,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Tyler Gilbert,656457,P,5,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+JD Hammer,670456,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Josh Martin,607294,P,6,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Seth McGarry,664121,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Edubray Ramos,591693,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Yacksel Rios,605441,P,8,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Alexis Rivero,640485,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Fernando Salas,477569,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Josh Tols,599644,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Tom Windle,592874,P,8,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Lehigh Valley IronPigs
+Ryan Lavarnway,543432,C,5,12,4,6,2,0,2,5,14,2,1,0,0,.533,1.167,.500,1.700,Louisville Bats
+Josh VanMeter,642165,LF,49,181,43,63,14,1,14,43,121,24,37,8,3,.429,.669,.348,1.097,Louisville Bats
+Tucker Barnhart,571466,C,1,3,1,1,1,0,0,0,2,0,1,0,0,.333,.667,.333,1.000,Louisville Bats
+Odrisamer Despaigne,628333,P,4,6,1,2,0,0,0,1,2,0,2,0,0,.333,.333,.333,.667,Louisville Bats
+Rob Refsnyder,608701,OF,74,256,41,81,20,2,10,41,135,29,73,0,2,.383,.527,.316,.910,Louisville Bats
+Chadwick Tromp,644433,C,15,43,13,13,1,0,7,17,35,9,12,0,0,.444,.814,.302,1.258,Louisville Bats
+Keury Mella,622492,P,15,20,1,6,2,0,0,3,8,1,11,0,0,.333,.400,.300,.733,Louisville Bats
+Aristides Aquino,606157,RF,78,294,56,88,13,1,28,53,187,23,81,5,1,.356,.636,.299,.992,Louisville Bats
+Narciso Crook,643271,LF,66,210,32,62,12,6,10,32,116,16,63,6,1,.348,.552,.295,.900,Louisville Bats
+Christian Colon,518568,2B,115,428,56,125,32,1,8,59,183,52,51,22,11,.370,.428,.292,.798,Louisville Bats
+Phillip Ervin,640447,RF,40,145,27,42,8,1,6,26,70,19,34,6,6,.384,.483,.290,.866,Louisville Bats
+Nick Longhi,641802,LF,97,345,47,97,23,3,11,48,159,29,91,0,1,.339,.461,.281,.799,Louisville Bats
+Brian O'Grady,657434,1B,100,386,66,107,27,1,27,70,217,43,124,16,4,.351,.562,.277,.913,Louisville Bats
+Alex Blandino,607468,2B,54,183,30,49,10,1,5,17,76,35,52,1,3,.417,.415,.268,.833,Louisville Bats
+Luis Gonzalez,642694,SS,13,38,8,10,2,0,0,3,12,4,9,0,1,.333,.316,.263,.649,Louisville Bats
+Nick Senzel,669222,LF,8,35,7,9,1,0,1,2,13,3,13,0,0,.316,.371,.257,.687,Louisville Bats
+Juan Graterol,492802,C,58,209,19,52,8,1,2,26,68,14,18,0,1,.301,.325,.249,.626,Louisville Bats
+Sherman Johnson,582473,2B,71,203,32,49,9,1,4,15,72,34,55,4,4,.353,.355,.241,.708,Louisville Bats
+Mitch Nay,608356,3B,14,47,5,11,2,0,1,2,16,4,11,0,0,.294,.340,.234,.635,Louisville Bats
+Blake Trahan,664167,SS,86,309,33,71,10,2,5,27,100,17,71,2,4,.278,.324,.230,.602,Louisville Bats
+Alberti Chavez,622482,SS,30,81,14,18,1,1,1,5,24,8,19,1,1,.290,.296,.222,.587,Louisville Bats
+Valentin Martinez,650429,C,3,9,1,2,2,0,0,1,4,1,2,0,0,.300,.444,.222,.744,Louisville Bats
+Kyle Wren,592881,LF,19,50,7,11,2,1,0,1,15,7,15,1,2,.316,.300,.220,.616,Louisville Bats
+Scott Schebler,594988,RF,53,194,18,42,6,0,5,17,63,12,51,0,1,.274,.325,.216,.598,Louisville Bats
+Cassidy Brown,668673,C,7,20,1,4,0,0,1,3,7,2,6,0,0,.273,.350,.200,.623,Louisville Bats
+Vladimir Gutierrez,661269,P,8,10,0,2,0,0,0,1,2,0,3,0,0,.200,.200,.200,.400,Louisville Bats
+Jackson Stephens,623451,P,12,5,0,1,0,0,0,0,1,0,2,0,0,.200,.200,.200,.400,Louisville Bats
+Alfredo Rodriguez,670895,SS,5,22,1,4,1,0,0,5,5,1,4,0,0,.208,.227,.182,.436,Louisville Bats
+Scooter Gennett,571697,2B,3,12,0,2,1,0,0,0,3,0,2,0,0,.167,.250,.167,.417,Louisville Bats
+Courtney Hawkins,621445,LF,15,54,5,9,4,0,2,4,19,1,21,0,1,.196,.352,.167,.548,Louisville Bats
+Stuart Turner,642156,C,28,96,8,15,2,0,1,11,20,4,28,0,0,.190,.208,.156,.398,Louisville Bats
+Lucas Sims,608371,P,4,8,0,1,0,0,0,1,1,0,4,0,0,.125,.125,.125,.250,Louisville Bats
+Chris Okey,608360,C,9,33,2,4,1,0,0,3,5,0,13,0,0,.121,.152,.121,.273,Louisville Bats
+Jose Siri,642350,CF,9,30,4,3,0,0,0,3,3,4,13,4,1,.206,.100,.100,.306,Louisville Bats
+Tejay Antone,622088,P,4,8,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Curt Casali,592200,C,2,5,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Kyle Farmer,571657,2B,1,4,1,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Justin Grimm,518748,P,2,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Louisville Bats
+Joel Kuhnel,669270,P,4,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Louisville Bats
+Jose Lopez,656661,P,3,4,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Joe Mantiply,573009,P,6,2,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Brad Markey,623490,P,2,2,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Jesus Reyes,660875,P,14,2,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Sal Romano,607219,P,15,3,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Louisville Bats
+Taylor Sparks,607221,3B,1,3,0,0,0,0,0,0,0,1,3,0,0,.250,.000,.000,.250,Louisville Bats
+R.J. Alaniz,595798,P,6,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Tristan Archer,572687,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Anthony Bass,542914,P,7,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Wendolyn Bautista,642664,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Matt Bowman,621199,P,11,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Brad Boxberger,502202,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Tim Collins,525768,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Jimmy Herget,623474,P,14,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Ian Krol,571871,P,11,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Alex Powers,641988,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Cody Reed,642003,P,9,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Eric Stout,657770,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Louisville Bats
+Chris Clare,670133,SS,2,2,1,1,0,0,1,2,4,1,1,0,0,.667,2.000,.500,2.667,Norfolk Tides
+Martin Cervenka,548431,C,2,5,1,2,0,0,0,1,2,2,1,0,0,.571,.400,.400,.971,Norfolk Tides
+Rio Ruiz,547004,3B,3,14,1,5,0,0,1,7,8,0,3,0,0,.333,.571,.357,.905,Norfolk Tides
+Stevie Wilkerson,592859,CF,16,62,13,20,0,1,2,10,28,3,9,3,0,.354,.452,.323,.805,Norfolk Tides
+Mason Williams,592863,OF,101,368,52,116,12,2,15,56,177,38,71,3,6,.377,.481,.315,.858,Norfolk Tides
+Ryan Mountcastle,663624,3B,107,440,66,138,27,1,20,68,227,17,107,2,1,.341,.516,.314,.856,Norfolk Tides
+Jace Peterson,607054,3B,90,326,58,102,25,5,10,46,167,46,56,13,3,.398,.512,.313,.910,Norfolk Tides
+Chance Sisco,642082,C,45,168,31,49,10,0,10,37,89,20,44,0,0,.388,.530,.292,.918,Norfolk Tides
+DJ Stewart,621466,RF,61,222,40,63,18,2,12,46,121,38,49,5,3,.391,.545,.284,.936,Norfolk Tides
+Jesus Sucre,491696,C,50,184,20,52,15,0,0,19,67,12,29,0,0,.333,.364,.283,.697,Norfolk Tides
+Zach Vincej,572227,SS,82,296,38,80,17,0,8,40,121,21,54,0,4,.320,.409,.270,.729,Norfolk Tides
+Christopher Bostick,607471,2B,93,340,52,89,21,1,12,47,148,31,84,4,2,.333,.435,.262,.769,Norfolk Tides
+Anthony Santander,623993,LF,48,193,30,50,15,0,5,28,80,13,38,3,2,.311,.415,.259,.726,Norfolk Tides
+Austin Wynns,642851,C,49,151,20,38,3,0,3,22,50,21,28,0,0,.345,.331,.252,.676,Norfolk Tides
+Jack Reinheimer,595373,SS,91,294,38,70,11,2,4,23,97,35,70,11,3,.320,.330,.238,.650,Norfolk Tides
+Austin Hays,669720,RF,38,156,29,37,13,1,7,18,73,7,37,2,1,.283,.468,.237,.751,Norfolk Tides
+Mark Trumbo,444432,DH,7,22,2,5,1,0,2,4,12,5,8,0,0,.370,.545,.227,.916,Norfolk Tides
+Ademar Rifaela,642488,LF,29,97,11,22,4,2,2,7,36,6,25,0,0,.290,.371,.227,.661,Norfolk Tides
+Anderson Feliz,570716,3B,42,135,16,28,7,0,1,14,38,13,47,0,1,.277,.281,.207,.559,Norfolk Tides
+Cedric Mullins,656775,CF,66,268,40,55,8,2,5,24,82,25,51,13,4,.272,.306,.205,.578,Norfolk Tides
+Engelb Vielma,622713,SS,30,93,7,19,7,0,0,5,26,9,27,0,0,.288,.280,.204,.568,Norfolk Tides
+Joey Rickard,572073,CF,18,64,10,13,5,0,4,10,30,11,16,1,0,.338,.469,.203,.806,Norfolk Tides
+Jose Rondon,602922,2B,3,10,0,2,1,0,0,1,3,1,4,0,0,.273,.300,.200,.573,Norfolk Tides
+Jaycob Brugman,595144,LF,3,8,1,1,0,0,1,1,4,0,3,0,0,.125,.500,.125,.625,Norfolk Tides
+Carlos Perez,542208,C,8,24,2,3,1,0,0,0,4,1,4,0,0,.160,.167,.125,.327,Norfolk Tides
+Dwight Smith Jr,596105,LF,2,8,1,1,0,0,1,1,4,0,2,0,0,.222,.500,.125,.722,Norfolk Tides
+Bobby Dalbec,666915,3B,7,27,5,11,1,0,2,3,18,1,5,0,1,.429,.667,.407,1.095,Pawtucket Red Sox
+Chris Owings,572008,2B,44,163,26,53,11,0,11,34,97,15,50,6,4,.385,.595,.325,.980,Pawtucket Red Sox
+Marco Hernandez,593523,3B,34,132,23,39,12,0,2,11,57,6,30,3,2,.319,.432,.295,.751,Pawtucket Red Sox
+Rusney Castillo,628329,CF,100,380,58,111,22,0,16,60,181,24,49,4,8,.336,.476,.292,.812,Pawtucket Red Sox
+Josh Tobias,596122,3B,44,134,16,39,8,1,2,13,55,13,29,1,1,.349,.410,.291,.759,Pawtucket Red Sox
+Chad De La Guerra,664750,2B,61,226,35,65,16,1,13,37,122,24,64,1,2,.361,.540,.288,.901,Pawtucket Red Sox
+Jantzen Witte,642220,3B,91,312,39,86,16,0,6,40,120,30,60,7,4,.342,.385,.276,.727,Pawtucket Red Sox
+Sam Travis,607752,1B,68,236,36,65,14,1,7,33,102,31,62,5,1,.362,.432,.275,.794,Pawtucket Red Sox
+Cole Sturgeon,657017,RF,75,251,32,69,11,2,5,31,99,19,55,6,2,.337,.394,.275,.731,Pawtucket Red Sox
+Tzu-Wei Lin,624407,2B,46,174,21,47,9,1,2,20,64,16,41,6,1,.328,.368,.270,.696,Pawtucket Red Sox
+Mike Miller,623166,SS,53,195,29,50,9,0,3,23,68,22,28,3,4,.332,.349,.256,.681,Pawtucket Red Sox
+Michael Chavis,656308,3B,12,40,7,10,2,0,4,6,24,7,9,0,0,.354,.600,.250,.954,Pawtucket Red Sox
+Brock Holt,571788,2B,9,28,7,7,2,0,1,3,12,8,12,1,0,.432,.429,.250,.861,Pawtucket Red Sox
+Juan Centeno,518542,C,69,230,23,56,11,0,3,34,76,19,40,1,0,.306,.330,.243,.636,Pawtucket Red Sox
+Bryce Brentz,518490,OF,82,272,44,63,17,0,17,49,131,33,106,0,2,.322,.482,.232,.803,Pawtucket Red Sox
+Jake Romanski,642031,C,6,18,4,4,2,0,0,2,6,0,3,0,0,.300,.333,.222,.633,Pawtucket Red Sox
+Gorkys Hernandez,491676,CF,107,373,66,79,10,1,16,49,139,58,122,19,6,.319,.373,.212,.692,Pawtucket Red Sox
+Josh Ockimey,656807,1B,103,326,57,69,15,2,22,53,154,67,117,0,2,.352,.472,.212,.824,Pawtucket Red Sox
+Oscar Hernandez,591712,C,37,114,15,24,8,0,4,14,44,9,24,0,0,.276,.386,.211,.662,Pawtucket Red Sox
+Nick Lovullo,623517,SS,15,45,8,9,1,0,1,5,13,4,14,1,0,.265,.289,.200,.554,Pawtucket Red Sox
+Tony Renda,573113,2B,5,20,3,4,2,0,1,5,9,1,3,0,0,.238,.450,.200,.688,Pawtucket Red Sox
+Steve Pearce,456665,1B,7,24,3,4,1,0,0,2,5,3,10,0,0,.310,.208,.167,.519,Pawtucket Red Sox
+Dustin Pedroia,456030,2B,5,19,2,3,0,0,0,0,3,1,4,0,0,.200,.158,.158,.358,Pawtucket Red Sox
+Eduardo Nunez,456488,2B,4,15,1,2,0,0,1,1,5,0,1,0,0,.133,.333,.133,.467,Pawtucket Red Sox
+Sandy Leon,506702,C,7,25,2,3,0,0,0,0,3,1,6,0,1,.154,.120,.120,.274,Pawtucket Red Sox
+Dylan Hardy,681511,OF,1,3,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Pawtucket Red Sox
+Mitch Moreland,519048,1B,4,13,0,0,0,0,0,0,0,1,4,0,0,.071,.000,.000,.071,Pawtucket Red Sox
+Yeltsin Encarnacion,664321,2B,1,3,1,3,0,0,0,0,3,0,0,0,0,1.000,1.000,1.000,2.000,Rochester Red Wings
+Willians Astudillo,553902,C,9,38,10,20,0,0,3,11,29,1,1,1,1,.525,.763,.526,1.288,Rochester Red Wings
+Ramon Flores,570717,OF,10,34,5,13,3,0,1,6,19,9,7,1,0,.523,.559,.382,1.082,Rochester Red Wings
+Jake Cave,595909,CF,48,196,37,69,18,4,7,39,116,15,50,5,0,.393,.592,.352,.984,Rochester Red Wings
+Luis Arraez,650333,2B,16,66,8,23,4,0,0,8,27,6,2,1,0,.397,.409,.348,.806,Rochester Red Wings
+Alejandro De Aza,457477,OF,24,89,19,30,5,1,6,26,55,9,22,3,0,.412,.618,.337,1.030,Rochester Red Wings
+Jaylin Davis,664041,RF,41,154,39,51,11,1,15,42,109,15,46,2,0,.405,.708,.331,1.112,Rochester Red Wings
+Wilin Rosario,501647,1B,86,332,60,103,20,0,17,72,174,21,62,1,1,.353,.524,.310,.877,Rochester Red Wings
+Miguel Sano,593934,3B,3,13,2,4,2,0,0,1,6,1,7,0,0,.357,.462,.308,.819,Rochester Red Wings
+Tomas Telis,542513,C,70,258,37,78,17,2,8,36,123,13,29,0,0,.338,.477,.302,.815,Rochester Red Wings
+Luke Raley,670042,RF,33,126,28,38,6,0,7,21,65,7,42,4,0,.362,.516,.302,.878,Rochester Red Wings
+Nick Gordon,624503,SS,70,292,49,87,29,3,4,40,134,18,65,14,4,.342,.459,.298,.801,Rochester Red Wings
+Jordany Valdespin,518170,2B,60,214,28,63,9,1,7,34,95,14,25,5,2,.343,.444,.294,.787,Rochester Red Wings
+Brent Rooker,667670,OF,65,228,41,64,16,0,14,47,122,35,95,2,0,.398,.535,.281,.933,Rochester Red Wings
+Drew Maggi,543482,3B,90,323,61,88,17,4,10,41,143,47,82,9,3,.392,.443,.272,.834,Rochester Red Wings
+Mike Miller,623166,SS,7,26,4,7,1,0,0,0,8,3,6,0,0,.345,.308,.269,.653,Rochester Red Wings
+Wynston Sawyer,592723,C,37,131,23,35,17,0,2,19,58,10,40,0,0,.347,.443,.267,.790,Rochester Red Wings
+Ivan De Jesus Jr.,474443,2B,4,15,2,4,1,0,0,1,5,1,6,0,0,.313,.333,.267,.646,Rochester Red Wings
+Randy Cesar,622689,3B,45,168,22,44,12,0,4,31,68,20,56,0,0,.344,.405,.262,.749,Rochester Red Wings
+Jimmy Kerrigan,677965,CF,20,69,13,18,5,0,6,13,41,2,21,0,0,.278,.594,.261,.872,Rochester Red Wings
+Ian Miller,641878,CF,1,4,0,1,1,0,0,0,2,0,1,0,0,.250,.500,.250,.750,Rochester Red Wings
+Zander Wiel,605530,OF,105,392,69,97,32,3,20,64,195,32,135,1,0,.309,.497,.247,.807,Rochester Red Wings
+LaMonte Wade Jr,664774,LF,77,264,47,65,12,1,5,24,94,56,48,7,2,.392,.356,.246,.748,Rochester Red Wings
+Ronald Torreyes,591720,2B,60,233,38,57,10,1,10,37,99,11,26,2,1,.286,.425,.245,.711,Rochester Red Wings
+Caleb Hamilton,643348,C,11,39,4,8,2,0,1,4,13,0,15,0,0,.205,.333,.205,.538,Rochester Red Wings
+John Andreoli,607430,OF,43,153,19,30,7,0,6,15,55,30,63,3,0,.324,.359,.196,.684,Rochester Red Wings
+Adam Rosales,489267,2B,20,72,5,14,2,0,0,7,16,7,22,0,0,.263,.222,.194,.485,Rochester Red Wings
+Brandon Barnes,488681,OF,7,32,3,6,1,0,1,4,10,1,14,0,0,.212,.313,.188,.525,Rochester Red Wings
+Brian Schales,656935,3B,17,59,3,9,2,0,2,6,17,2,29,0,0,.188,.288,.153,.476,Rochester Red Wings
+Tanner English,605221,CF,6,20,2,2,0,0,1,1,5,2,10,1,0,.182,.250,.100,.432,Rochester Red Wings
+Jake Hirabayashi,667656,3B,1,2,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Rochester Red Wings
+Victor Tademo,666681,3B,1,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Rochester Red Wings
+Preston Guilmet,543258,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Rochester Red Wings
+Zack Littell,641793,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Rochester Red Wings
+Cameron Maybin,457727,LF,3,13,4,6,2,0,1,2,11,1,2,0,0,.500,.846,.462,1.346,Scranton/Wilkes-Barre RailRiders
+Gio Urshela,570482,3B,2,9,2,4,2,0,0,1,6,0,2,0,0,.444,.667,.444,1.111,Scranton/Wilkes-Barre RailRiders
+Aaron Hicks,543305,CF,2,7,4,3,2,0,1,1,8,1,1,1,0,.500,1.143,.429,1.643,Scranton/Wilkes-Barre RailRiders
+Breyvic Valera,591971,2B,65,235,31,77,13,1,11,36,125,26,24,6,4,.402,.532,.328,.933,Scranton/Wilkes-Barre RailRiders
+Ryan McBroom,643436,1B,97,341,70,110,25,0,19,48,192,42,79,2,2,.401,.563,.323,.964,Scranton/Wilkes-Barre RailRiders
+Tyler Wade,642180,SS,73,280,46,85,17,4,4,35,122,22,72,12,5,.359,.436,.304,.795,Scranton/Wilkes-Barre RailRiders
+Mike Ford,645801,1B,79,294,59,89,20,0,23,60,178,46,55,0,1,.401,.605,.303,1.007,Scranton/Wilkes-Barre RailRiders
+Brad Miller,543543,2B,41,136,31,40,9,1,10,29,81,24,40,1,3,.399,.596,.294,.994,Scranton/Wilkes-Barre RailRiders
+Logan Morrison,489149,1B,43,152,29,44,11,0,15,37,100,8,26,0,1,.341,.658,.289,.999,Scranton/Wilkes-Barre RailRiders
+Erik Kratz,456124,C,31,102,17,29,8,0,4,20,49,13,14,1,0,.368,.480,.284,.848,Scranton/Wilkes-Barre RailRiders
+Zack Zehner,657446,LF,46,156,27,44,7,1,8,32,77,16,48,2,2,.345,.494,.282,.838,Scranton/Wilkes-Barre RailRiders
+Francisco Arcia,516472,C,10,32,4,9,1,0,1,5,13,3,8,0,0,.333,.406,.281,.740,Scranton/Wilkes-Barre RailRiders
+Matt Lipka,547181,OF,18,64,7,18,5,0,2,11,29,8,16,4,1,.361,.453,.281,.814,Scranton/Wilkes-Barre RailRiders
+Thairo Estrada,642731,2B,58,233,39,64,17,2,8,32,109,14,47,3,1,.323,.468,.275,.791,Scranton/Wilkes-Barre RailRiders
+Mike Tauchman,643565,CF,28,95,22,26,10,3,2,16,48,16,16,4,0,.386,.505,.274,.891,Scranton/Wilkes-Barre RailRiders
+Mandy Alvarez,669137,3B,45,160,21,43,13,0,2,19,62,10,27,1,1,.312,.388,.269,.700,Scranton/Wilkes-Barre RailRiders
+Kyle Higashioka,543309,C,53,179,33,48,8,0,16,40,104,18,42,0,0,.343,.581,.268,.924,Scranton/Wilkes-Barre RailRiders
+Trey Amburgey,664011,LF,103,388,59,104,24,2,20,53,192,27,96,6,2,.319,.495,.268,.814,Scranton/Wilkes-Barre RailRiders
+Billy Burns,542993,OF,79,229,33,61,13,3,2,21,86,18,35,11,3,.324,.376,.266,.700,Scranton/Wilkes-Barre RailRiders
+Gosuke Katoh,641741,2B,63,198,30,52,5,0,9,26,84,21,66,5,2,.339,.424,.263,.764,Scranton/Wilkes-Barre RailRiders
+Billy Fleming,659003,2B,12,41,4,10,0,0,1,5,13,3,16,0,0,.295,.317,.244,.613,Scranton/Wilkes-Barre RailRiders
+Clint Frazier,640449,RF,42,169,19,40,14,0,7,19,75,9,34,1,2,.286,.444,.237,.730,Scranton/Wilkes-Barre RailRiders
+Wendell Rijo,620442,2B,27,81,8,18,4,0,5,12,37,2,26,0,0,.267,.457,.222,.724,Scranton/Wilkes-Barre RailRiders
+Ryan Lavarnway,543432,C,35,108,13,23,2,0,3,19,34,17,26,0,0,.333,.315,.213,.648,Scranton/Wilkes-Barre RailRiders
+Omar Carrizales,642470,CF,4,10,0,2,0,0,0,0,2,2,4,0,0,.333,.200,.200,.533,Scranton/Wilkes-Barre RailRiders
+Gary Sanchez,596142,C,2,5,1,1,0,0,0,0,1,1,1,0,0,.333,.200,.200,.533,Scranton/Wilkes-Barre RailRiders
+Cliff Pennington,460060,SS,29,92,15,18,3,1,5,16,38,14,24,4,0,.306,.413,.196,.719,Scranton/Wilkes-Barre RailRiders
+Ryan Lidge,641787,C,3,11,1,2,1,0,0,0,3,0,5,0,0,.182,.273,.182,.455,Scranton/Wilkes-Barre RailRiders
+Kellin Deglan,592256,C,6,19,3,3,0,0,1,2,6,2,6,0,0,.273,.316,.158,.589,Scranton/Wilkes-Barre RailRiders
+Terrance Gore,605253,OF,8,21,2,3,0,0,0,0,3,7,6,1,0,.379,.143,.143,.522,Scranton/Wilkes-Barre RailRiders
+Aaron Judge,592450,RF,5,16,2,2,0,0,1,2,5,3,7,0,0,.263,.313,.125,.576,Scranton/Wilkes-Barre RailRiders
+Didi Gregorius,544369,SS,6,25,1,3,0,0,0,1,3,0,2,0,0,.154,.120,.120,.274,Scranton/Wilkes-Barre RailRiders
+Giancarlo Stanton,519317,OF,3,11,1,1,0,0,1,3,4,0,7,0,0,.091,.364,.091,.455,Scranton/Wilkes-Barre RailRiders
+Chance Adams,664856,P,1,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Scranton/Wilkes-Barre RailRiders
+Daniel Camarena,547176,P,2,3,0,0,0,0,0,0,0,0,2,0,0,.000,.000,.000,.000,Scranton/Wilkes-Barre RailRiders
+Adonis Rosa,650738,P,1,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Scranton/Wilkes-Barre RailRiders
+Domingo Acevedo,642758,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Scranton/Wilkes-Barre RailRiders
+Rex Brothers,571521,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Scranton/Wilkes-Barre RailRiders
+Cale Coshow,641483,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Scranton/Wilkes-Barre RailRiders
+Randall Delgado,517414,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Scranton/Wilkes-Barre RailRiders
+J.P. Feyereisen,656420,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Scranton/Wilkes-Barre RailRiders
+Drew Gagnon,543193,P,2,4,2,2,1,0,0,0,3,0,1,0,0,.500,.750,.500,1.250,Syracuse Mets
+Hector Santiago,502327,P,3,7,2,3,0,0,1,3,6,1,1,0,0,.500,.857,.429,1.357,Syracuse Mets
+Robinson Cano,429664,2B,3,10,2,4,3,0,0,1,7,1,3,0,0,.455,.700,.400,1.155,Syracuse Mets
+Chris Flexen,623167,P,5,5,1,2,0,0,0,0,2,0,1,0,0,.400,.400,.400,.800,Syracuse Mets
+Todd Frazier,453943,3B,2,5,2,2,1,0,0,1,3,1,1,0,0,.571,.600,.400,1.171,Syracuse Mets
+Adeiny Hechavarria,588751,SS,25,92,15,32,9,0,0,17,41,6,14,2,1,.382,.446,.348,.828,Syracuse Mets
+Ruben Tejada,514913,2B,69,258,51,87,18,1,6,36,125,29,46,2,3,.417,.484,.337,.901,Syracuse Mets
+Luis Guillorme,641645,SS,69,228,33,70,12,0,7,32,103,39,42,4,4,.412,.452,.307,.864,Syracuse Mets
+Arismendy Alcantara,570489,2B,71,227,47,68,12,5,10,41,120,24,63,9,1,.362,.529,.300,.891,Syracuse Mets
+Tomas Nido,621512,C,12,38,3,11,1,0,0,4,12,1,13,0,0,.300,.316,.289,.616,Syracuse Mets
+Corey Oswalt,621261,P,3,7,2,2,0,0,0,0,2,0,0,0,0,.286,.286,.286,.571,Syracuse Mets
+Rajai Davis,434658,CF,78,285,41,81,6,3,7,23,114,17,69,19,6,.333,.400,.284,.733,Syracuse Mets
+Aaron Altherr,571437,CF,23,62,8,17,4,1,4,8,35,9,13,3,2,.384,.565,.274,.948,Syracuse Mets
+Carlos Gomez,460576,RF,35,126,16,34,9,1,6,22,63,8,29,5,5,.329,.500,.270,.829,Syracuse Mets
+Rene Rivera,425784,C,86,320,48,85,10,0,23,69,164,24,91,0,0,.321,.513,.266,.834,Syracuse Mets
+Danny Espinosa,457787,2B,106,388,58,98,22,0,15,68,165,43,105,13,4,.336,.425,.253,.762,Syracuse Mets
+Dilson Herrera,599096,2B,97,337,58,83,25,1,22,52,176,32,105,10,4,.325,.522,.246,.848,Syracuse Mets
+Travis Taijeron,607369,RF,103,318,58,77,19,3,24,65,174,57,140,5,3,.377,.547,.242,.924,Syracuse Mets
+Matt Kemp,461314,LF,8,34,3,8,0,0,1,3,11,2,7,0,0,.278,.324,.235,.601,Syracuse Mets
+Gregor Blanco,453923,CF,98,304,52,71,12,3,12,30,125,42,85,9,7,.328,.411,.234,.739,Syracuse Mets
+Rymer Liriano,542642,OF,66,172,28,39,8,0,8,26,71,28,72,5,2,.338,.413,.227,.751,Syracuse Mets
+Dominic Smith,642086,1B,2,9,1,2,1,0,0,1,3,0,3,0,0,.222,.333,.222,.556,Syracuse Mets
+Braxton Lee,657658,CF,20,67,6,13,4,0,1,6,20,6,23,0,0,.270,.299,.194,.569,Syracuse Mets
+Ali Sanchez,645305,C,7,21,3,4,0,0,0,0,4,2,6,0,1,.320,.190,.190,.510,Syracuse Mets
+David Thompson,621420,3B,41,127,19,24,10,0,3,22,43,11,40,3,0,.257,.339,.189,.596,Syracuse Mets
+Gavin Cecchini,608325,2B,2,6,1,1,1,0,0,0,2,2,3,0,0,.375,.333,.167,.708,Syracuse Mets
+Jed Lowrie,476704,2B,6,24,2,4,0,0,1,1,7,2,9,0,0,.231,.292,.167,.522,Syracuse Mets
+Tim Tebow,628297,LF,77,239,25,39,10,0,4,19,61,20,98,2,2,.240,.255,.163,.495,Syracuse Mets
+Chris Mazza,607391,P,4,7,1,1,1,0,0,0,2,1,3,0,0,.250,.286,.143,.536,Syracuse Mets
+Colton Plaia,623279,C,37,107,5,15,5,0,1,8,23,6,39,0,0,.190,.215,.140,.405,Syracuse Mets
+Arquimedes Caminero,491708,P,5,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Syracuse Mets
+Casey Coleman,488787,P,5,4,0,0,0,0,0,0,0,1,0,0,0,.200,.000,.000,.200,Syracuse Mets
+Anthony Kay,641743,P,4,6,1,0,0,0,0,0,0,1,1,0,0,.143,.000,.000,.143,Syracuse Mets
+Jason Krizan,607249,OF,1,3,0,0,0,0,0,0,0,1,0,0,0,.250,.000,.000,.250,Syracuse Mets
+Zach Lee,545346,P,2,3,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Syracuse Mets
+Brandon Nimmo,607043,OF,2,6,3,0,0,0,0,1,0,4,1,1,0,.400,.000,.000,.400,Syracuse Mets
+Stephen Nogosek,668665,P,2,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Syracuse Mets
+Brooks Pounders,572044,P,4,1,0,0,0,0,0,0,0,0,0,0,0,.000,.000,.000,.000,Syracuse Mets
+Ervin Santana,429722,P,3,6,0,0,0,0,0,0,0,0,3,0,0,.000,.000,.000,.000,Syracuse Mets
+Daniel Zamora,623354,P,8,1,0,0,0,0,0,0,0,0,1,0,0,.000,.000,.000,.000,Syracuse Mets
+Tyler Bashlor,641341,P,6,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Matt Blackham,657518,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Sean Burnett,430634,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Louis Coleman,488786,P,4,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+P.J. Conlon,664869,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Ryley Gilliam,663894,P,3,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Eric Hanhold,621098,P,7,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Mickey Jannis,595263,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Ryan O'Rourke,594951,P,7,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Tim Peterson,623402,P,9,0,0,0,0,0,0,2,0,1,0,0,0,.500,.---,.---,.500,Syracuse Mets
+Jacob Rhame,642008,P,4,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Paul Sewald,623149,P,11,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Corey Taylor,664219,P,2,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Stephen Villines,676644,P,6,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Syracuse Mets
+Cole Peterson,676695,SS,1,1,0,1,0,0,0,0,1,0,0,0,0,1.000,1.000,1.000,2.000,Toledo Mud Hens
+JaCoby Jones,592444,CF,5,21,4,9,1,1,0,4,12,1,6,0,0,.500,.571,.429,1.071,Toledo Mud Hens
+Jeimer Candelario,600869,3B,21,84,17,29,5,2,5,24,53,10,20,0,0,.427,.631,.345,1.058,Toledo Mud Hens
+Dawel Lugo,608475,3B,68,282,46,94,21,4,5,41,138,15,52,6,3,.370,.489,.333,.859,Toledo Mud Hens
+Frank Schwindel,643524,1B,8,33,9,11,0,0,4,13,23,2,4,0,0,.371,.697,.333,1.068,Toledo Mud Hens
+Harold Castro,605612,3B,31,122,20,40,5,1,4,25,59,9,26,1,3,.371,.484,.328,.855,Toledo Mud Hens
+Ronny Rodriguez,500135,SS,44,172,33,55,9,2,11,31,101,6,41,5,0,.343,.587,.320,.930,Toledo Mud Hens
+Victor Reyes,622682,LF,74,289,50,88,19,1,10,58,139,14,50,10,6,.334,.481,.304,.815,Toledo Mud Hens
+Chace Numata,592600,C,6,20,3,6,1,0,0,2,7,2,0,0,0,.364,.350,.300,.714,Toledo Mud Hens
+Willi Castro,650489,SS,107,417,64,121,21,7,6,50,174,36,97,17,4,.360,.417,.290,.777,Toledo Mud Hens
+Dustin Peterson,640460,RF,79,301,31,86,13,0,11,49,132,14,78,1,1,.317,.439,.286,.755,Toledo Mud Hens
+Jacob Robson,615699,CF,97,354,53,98,20,3,8,47,148,46,110,23,9,.362,.418,.277,.780,Toledo Mud Hens
+Danny Woodrow,670143,RF,87,334,52,91,11,4,1,27,113,36,77,16,5,.346,.338,.272,.684,Toledo Mud Hens
+Kody Eaves,623238,3B,11,37,6,10,3,0,1,7,16,7,17,2,0,.386,.432,.270,.819,Toledo Mud Hens
+Mikie Mahtook,543484,CF,83,294,55,76,15,1,16,46,141,45,88,13,6,.362,.480,.259,.842,Toledo Mud Hens
+Kade Scivicque,664767,C,25,89,11,23,6,1,2,9,37,5,20,0,0,.305,.416,.258,.721,Toledo Mud Hens
+Bobby Wilson,435064,C,25,82,11,21,2,0,4,9,35,10,22,0,0,.337,.427,.256,.764,Toledo Mud Hens
+Cameron Rupp,519237,C,21,71,6,18,5,0,1,6,26,6,18,0,0,.329,.366,.254,.695,Toledo Mud Hens
+Pete Kozma,518902,SS,67,204,31,50,12,2,4,42,78,22,37,2,0,.321,.382,.245,.703,Toledo Mud Hens
+Josh Lester,623507,1B,18,72,7,17,5,0,2,14,28,11,26,0,0,.330,.389,.236,.718,Toledo Mud Hens
+Jordy Mercer,474568,SS,12,43,11,10,3,0,0,4,13,5,6,0,0,.340,.302,.233,.642,Toledo Mud Hens
+Daniel Pinero,615697,3B,28,91,18,21,6,1,4,14,41,18,25,4,0,.364,.451,.231,.814,Toledo Mud Hens
+Jake Rogers,668670,C,48,166,29,37,10,1,9,31,76,18,53,0,0,.321,.458,.223,.779,Toledo Mud Hens
+Daz Cameron,663662,CF,100,366,54,79,19,5,9,34,135,51,128,16,7,.331,.369,.216,.700,Toledo Mud Hens
+Brandon Dixon,641525,2B,11,46,6,8,0,0,1,3,11,0,16,0,0,.174,.239,.174,.413,Toledo Mud Hens
+Josh Harrison,543281,2B,7,23,2,4,1,0,0,3,5,6,4,0,0,.345,.217,.174,.562,Toledo Mud Hens
+Christin Stewart,621514,LF,3,11,1,1,0,0,0,1,1,2,4,0,0,.231,.091,.091,.322,Toledo Mud Hens
+Eduardo Jimenez,621592,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Toledo Mud Hens
+Caleb Thielbar,573204,P,1,0,0,0,0,0,0,0,0,0,0,0,0,.---,.---,.---,.000,Toledo Mud Hens
