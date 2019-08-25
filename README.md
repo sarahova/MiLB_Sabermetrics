@@ -2,7 +2,7 @@
 
 ## Background
 
-[Here is the link to the app](https://sabermetrics-milb.herokuapp.com/)
+[Click here to view app.](https://sabermetrics-milb.herokuapp.com/)
 
 I decided to do this project because I applied to a Analytics Developer position for the Toronto MLB Blue Jays team. When I read the job description, the first thing I thought of was Jonah Hill's character in the movie Moneyball....and thought:
 
