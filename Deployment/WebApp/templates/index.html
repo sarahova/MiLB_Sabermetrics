@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <title>MiLB Sabermetrics</title>
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+  <script
+   src="https://code.jquery.com/jquery-3.3.1.min.js"
+   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+   crossorigin="anonymous"></script>
+   
+  <!-- icon -->
+  <link rel="icon" href="data:;base64,=">
+
+  <!--d3 and AJAX CDN-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+
+
+  <!--Plotly CDN-->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+   <!-- JSON file with data -->  
+   <script type="text/javascript" src="./static/batting.json"></script>
+   <script type="text/javascript" src="./static/pitching.json"></script>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>2019 MiLB Sabermetrics</h1>
+        <p>Use the interactive charts below to explore</p>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-12">
+          <div class="well">
+              <h2> Batting </h2>
+              <p> The data points are colored based on player clusters identified through the KMeans algorithim</p>
+            </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">
+        <h5>SELECT x-axis:</h5>
+        <select id="xaxis_batting"></select>
+      </div>
+    
+      <div class="col-md-6">  
+        <h5>SELECT y-axis:</h5>
+        <select id="yaxis_batting"></select>   
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div id="battingchart"></div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+          <div class="well">
+              <h2> Pitching </h2>
+              <p> The data points are colored based on player clusters identified through the KMeans algorithim</p>
+            </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">
+        <h5>SELECT x-axis:</h5>
+        <select id="xaxis_pitching"></select>
+      </div>
+    
+      <div class="col-md-6">  
+        <h5>SELECT y-axis:</h5>
+        <select id="yaxis_pitching"></select>   
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div id="pitchingchart"></div>
+      </div>
+    </div>
+
+
+
+    
+
+  </div>
+
+  <script type="text/javascript" src="./static/js/app.js"></script>
+
+</body>
+
+</html>
